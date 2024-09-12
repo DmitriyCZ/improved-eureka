@@ -1,2 +1,4 @@
-# improved-eureka
-testing git
+# python-rush-project
+Python demonstration with GitHub from PyCharm
+
+
